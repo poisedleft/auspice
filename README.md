@@ -3,6 +3,16 @@
 [![NPM version](https://img.shields.io/npm/v/auspice.svg?style=flat)](https://www.npmjs.com/package/auspice)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
+
+
+
+## THIS DEMO
+
+
+I run with test_haiti_zoom.sh
+auspice develop --datasetDir haiti_data/ --narrativeDir narratives/
+with auspice build from source on this directory. 
+
 ## About Nextstrain
 
 **Nextstrain** is an open-source project to harness the scientific and public health potential of pathogen genome data.
